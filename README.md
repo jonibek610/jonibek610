@@ -9,7 +9,7 @@
 - 🌱 Learning Machine Learning
 - 💻 Python Developer
 - 📈 Interested in Data Analytics
-- 🐧 Ubuntu Linux User
+- 🐧 Linux User
 
 ## 🛠️ Tech Stack
 
